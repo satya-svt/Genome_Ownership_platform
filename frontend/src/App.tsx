@@ -5,7 +5,7 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Index from "./pages/Index";
-import Homepage from "./pages/Homepage";
+import Homepage from "./pages/HomePage";
 import UploadPage from "./pages/UploadPage";
 import DashboardPage from "./pages/DashboardPage";
 import ResearchPage from "./pages/ResearchPage";
